@@ -1,0 +1,1 @@
+abundance_tail_analysis.ipynb is the main notebook that carries out the analysis on the datasets. "raw_data_638.csv" is the lake dataset while "species_abundances_original.csv" is the lab mesocosm dataset. All the guidance is given in the notebook
