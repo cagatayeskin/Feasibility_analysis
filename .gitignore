@@ -1,0 +1,17 @@
+# System and Jupyter files
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+
+# Data (downloaded from the original sources, see README.txt)
+*.csv
+web-of-life_2025/
+
+# Generated networks, results and figures
+parameterized_networks_M/
+parameterized_networks_FW/
+results_M/
+results_FW/
+*.npz
+*.png
+*.pdf
